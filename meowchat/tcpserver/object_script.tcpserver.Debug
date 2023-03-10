@@ -1,0 +1,11 @@
+debug/clientsocket.o
+debug/databasemagr.o
+debug/main.o
+debug/mainwindow.o
+debug/myapp.o
+debug/tcpserver.o
+debug/qrc_resources.o
+debug/moc_clientsocket.o
+debug/moc_databasemagr.o
+debug/moc_mainwindow.o
+debug/moc_tcpserver.o

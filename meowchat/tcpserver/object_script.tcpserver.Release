@@ -1,0 +1,11 @@
+release/clientsocket.o
+release/databasemagr.o
+release/main.o
+release/mainwindow.o
+release/myapp.o
+release/tcpserver.o
+release/qrc_resources.o
+release/moc_clientsocket.o
+release/moc_databasemagr.o
+release/moc_mainwindow.o
+release/moc_tcpserver.o
